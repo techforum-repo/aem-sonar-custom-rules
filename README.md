@@ -1,1 +1,1 @@
-# Projects
+> **This repository has moved.** It now lives in [`techforum-samples/aem/aem-sonar-custom-rules`](https://github.com/techforum-repo/techforum-samples/tree/master/aem/aem-sonar-custom-rules), with its full commit history. This repo is archived and read-only.# Projects
